@@ -4,14 +4,14 @@
 
 [![NPM](https://img.shields.io/npm/v/plane.svg)](https://www.npmjs.com/package/plane) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-
 ## [Demo](https://krasovsky22.github.io/experiment-css-responsive-plane/)
+
 ![Test Image 1](plane.gif)
 
 ## Install
 
 ```bash
-npm install --save krasovsky22/css_plane
+npm install --save krasovsky22/experiment-css-responsive-plane
 ```
 
 ## Usage
