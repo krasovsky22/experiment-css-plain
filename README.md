@@ -4,9 +4,8 @@
 
 [![NPM](https://img.shields.io/npm/v/plane.svg)](https://www.npmjs.com/package/plane) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-
 ## [Demo](https://krasovsky22.github.io/experiment-css-responsive-plane/)
-### Screenshot
+
 ![Test Image 1](plane.gif)
 
 ## Install
