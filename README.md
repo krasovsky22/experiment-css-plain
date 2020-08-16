@@ -7,7 +7,7 @@
 
 ## [Demo](https://krasovsky22.github.io/experiment-css-responsive-plane/)
 ### Screenshot
-![Test Image 1](screenshot.png)
+![Test Image 1](plane.gif)
 
 ## Install
 
