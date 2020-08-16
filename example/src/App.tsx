@@ -1,10 +1,14 @@
 import React from 'react'
 
-import { ExampleComponent } from 'plane'
+import PlaneExperiment from 'plane'
 import 'plane/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (
+    <div className='full-page'>
+      <PlaneExperiment />
+    </div>
+  )
 }
 
 export default App
