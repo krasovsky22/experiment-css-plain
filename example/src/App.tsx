@@ -1,7 +1,7 @@
 import React from 'react'
 
-import PlaneExperiment from 'plane'
-import 'plane/dist/index.css'
+import PlaneExperiment from 'css_plane'
+import 'css_plane/dist/index.css'
 
 const App = () => {
   return (

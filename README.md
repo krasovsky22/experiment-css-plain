@@ -1,13 +1,15 @@
-# plane
+# css_plane
 
-> css plane experiment
+> Responsive css plane experiment
 
 [![NPM](https://img.shields.io/npm/v/plane.svg)](https://www.npmjs.com/package/plane) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+![Test Image 1](screenshot.png)
 
 ## Install
 
 ```bash
-npm install --save plane
+npm install --save krasovsky22/css_plane
 ```
 
 ## Usage
@@ -15,12 +17,12 @@ npm install --save plane
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'plane'
-import 'plane/dist/index.css'
+import PlaneExperiment from 'css_plane'
+import 'css_plane/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <PlaneExperiment />
   }
 }
 ```

@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import PlaneExperiment from './index'
 
-describe('ExampleComponent', () => {
+describe('PlaneExperiment', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(PlaneExperiment).toBeTruthy()
   })
 })
